@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>My iPhone Event Calendar</title>
+    <link>https://example.com/events</link>
+    <description>Upcoming events on my iPhone calendar</description>
+    <item>
+        <title>Conference on Artificial Intelligence</title>
+        <description>Join us for a two-day conference on AI, featuring keynote speakers from Google and IBM.</description>
+        <pubDate>Tue, 28 Mar 2023 09:00:00 GMT</pubDate>
+        <link>https://example.com/events/ai-conference</link>
+    </item>
+    <item>
+        <title>Team Building Retreat</title>
+        <description>Join us for a weekend of team building activities and relaxation in the mountains.</description>
+        <pubDate>Sat, 15 Apr 2023 10:00:00 GMT</pubDate>
+        <link>https://example.com/events/team-building-retreat</link>
+    </item>
+</channel>
+</rss>
